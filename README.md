@@ -3,4 +3,10 @@
 Ahoj svet, Kamarat!
 
 ## O mne
+
 Ja som Jana.
+
+
+
+pozdravuje matus
+
